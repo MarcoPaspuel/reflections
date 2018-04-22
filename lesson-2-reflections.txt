@@ -14,13 +14,28 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	I can move the file that has an importan change and commi it.
+	Then i can move the other file that has a significant chance and commit if.
+
+	In that way I can separate the changes event though I migh mave done them at the "same time".
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches will help me make some experimental changes in the code.
+	
+
 How do the diagrams help you visualize the branch structure?
+
+	It help to keep track of the different bances and its parents
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The diagram helps us understand the sequences the merges where introduced
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	Merging automatically can save you some time. However, where ther is a conflict you might want to
+	know about it because the changes have to make sence and not to have mistakes.
